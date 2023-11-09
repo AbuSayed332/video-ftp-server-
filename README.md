@@ -1,12 +1,4 @@
-[![Youtube][youtube-shield]][youtube-url]
-[![Facebook][facebook-shield]][facebook-group-url]
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
- 
-    <h3 align="center"><a href="https://learnwithsumit.com/courses/think-in-a-redux-way/create-api-slice">REACT REDUX AND TAILWIND </a></h3>
-</p>
 
 <!-- TABLE OF CONTENTS -->
 
